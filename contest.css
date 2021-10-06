@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 0 20px 30px 0;
+    line-height: 1.4;
+    text-align: center;
+}
+h1{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    color: brown;
+    font-size: 30px;
+}
+#list{
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    align-self:center;
+    color: cornflowerblue;
+
+}
+.btn{
+    background: cyan;
+    border: 1pt solid black;
+    width: 10px;
+    transition: 0.1s all ease;
+
+}
+th{
+    padding: 15px;
+    color: greenyellow;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
